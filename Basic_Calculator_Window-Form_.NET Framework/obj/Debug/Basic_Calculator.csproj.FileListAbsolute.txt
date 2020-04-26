@@ -1,0 +1,9 @@
+C:\Users\Het Suthar\source\repos\Basic_Calculator\bin\Debug\Basic_Calculator.exe.config
+C:\Users\Het Suthar\source\repos\Basic_Calculator\bin\Debug\Basic_Calculator.exe
+C:\Users\Het Suthar\source\repos\Basic_Calculator\bin\Debug\Basic_Calculator.pdb
+C:\Users\Het Suthar\source\repos\Basic_Calculator\obj\Debug\Basic_Calculator.csprojAssemblyReference.cache
+C:\Users\Het Suthar\source\repos\Basic_Calculator\obj\Debug\Basic_Calculator.Form1.resources
+C:\Users\Het Suthar\source\repos\Basic_Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+C:\Users\Het Suthar\source\repos\Basic_Calculator\obj\Debug\Basic_Calculator.csproj.GenerateResource.cache
+C:\Users\Het Suthar\source\repos\Basic_Calculator\obj\Debug\Basic_Calculator.exe
+C:\Users\Het Suthar\source\repos\Basic_Calculator\obj\Debug\Basic_Calculator.pdb
